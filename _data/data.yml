@@ -9,257 +9,191 @@ sidebar:
 
     # Profile information
     name: Krzysztof Król
-    tagline: Full Stack Developer
+    tagline: Senior Mobile Software Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: krzysztof.king@gmail.com
+    phone: +48 669 117 754
+    timezone: Central European Time
+    citizenship: Polish
+    website: #do not add http://
+    linkedin: krzysztof-król-b3b93b74
+    xing:
+    github: kkrol2
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf:
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Polish
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Chess
           link:
 
-        - item: Snowboarding
+        - item: Economics
           link:
 
-        - item: Cooking
+        - item: Algorithmics
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I began my programming journey in high school, diving into algorithmic competitions and embracing each challenge with enthusiasm,
+      leading to a bronze medal in the Polish Olympiad in Informatics. This passion for problem-solving continued through my Computer Science studies,
+      inspiring me to start a professional career in web application development in my second year of university.
+      It was here that I discovered a deep interest in Android development. I'm particularly proud of a well-received photo editing app for Android,
+      a project that was both challenging and fulfilling. Now, I work as a mobile frontend developer at a software house.
+      As a developer, my focus is always on delivering practical solutions that are cost-efficient and centered around user needs,
+      ensuring that each project meets both user and business expectations.
 education:
     title: Education
     info:
       - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        university: University of Wroclaw
+        time: 2014 - 2016
+        details:
+      - degree: BSc in Computer Science
+        university: University of Wroclaw
+        time: 2010 - 2014
+        details:
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Senior Mobile Software Engineer
+        time: 2017 - Present
+        company: Nomtek
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          In my senior years at Nomtek, I expanded my technological expertise, embracing newer technologies like Flutter, React Native, and Android native development with Kotlin.
+          My focus on Android Native included extensive use of various Jetpack libraries and the implementation of coroutines for efficient asynchronous programming.
+          The applications I developed were based on various architectures, most notably Model-View-Intent (MVI) and Model-View-Presenter (MVP).
+          A significant aspect of my role was adhering to the Clean Architecture principles as outlined by Robert C. Martin, ensuring high standards of code maintainability and scalability.
+          As a lead developer, I managed small Android development teams. My responsibilities were multifaceted and included direct communication with clients,
+          gathering and analyzing requirements, designing robust application architectures, and hands-on app development.
+          The projects under my leadership covered a range of categories, including wellness, productivity, and social applications.
+          A highlight of my tenure was leading the development of an innovative app designed for automatic toll collection, showcasing our team's ability to deliver complex, real-world solutions.
+      - role: Android Software Engineer
+        time: 2013 - 2016
+        company: Nomtek
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          During my tenure, I have developed numerous Android applications for a variety of clients. My primary development tools were the Android SDK and Java.
+          In addition, I've used sparringly Cordova, a HTML/JavaScript wrapper. My toolkit also included an array of tools and libraries
+          such as Eclipse, Android Studio, SQLite, Realm, Crashlytics, Firebase, Mixpanel, and Google Analytics.
+          The projects I contributed to spanned various categories including lifestyle, education, social networking, and productivity. My key responsibilities included:
+            - Developing applications.
+            - Creating unit test suites.
+            - Collaborating with clients to establish functional requirements.
+            - Working as part of large teams to ensure cohesive development and deployment.
+      - role: Android Software Engineer
+        time: 2013
+        company: Smoothie Photo Editor
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Collaborated with a university peer to develop an Android photo editing application, partnering with Red Cloud Soft for graphic design and publishing.
+          The project was a notable success, attracting over 200,000 users, and presented unique challenges in terms of performance optimization and complex algorithm development.
+          My key contributions included:
+            - Leading the app's development with a focus on performance and user experience.
+            - Steering product design to align with market needs and user preferences.
+            - Orchestrating marketing strategies to effectively reach and engage our target audience.
+      - role: Software Engineer
+        time: 2012 - 2013
+        company: Red Cloud Soft
+        details: |
+          Developed 'verif.pl', a web-based debt exchange platform, employing JavaServer Faces (JSF), Hibernate, and MySQL.
+          Key focuses were on ensuring optimal scalability and robust security to handle high-volume transactions and sensitive data efficiently.
+          My main responsibilities:
+            - the web application development.
+            - creating  JUnit test suite.
+            - communication with the client, gathering functional requirements.
+
+
 
 certifications:
-      title: Certifications
+      title: Activities
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: Nonviolent Communication training
+          start: 01.09.2022
+          end: 21.12.2022
+          organization: Joanna Nowicka
+          credentialid:
+          credentialurl:
+          credentialname:
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+            Completed comprehensive training in NVC, improving skills in empathetic engagement, conflict resolution, and assertive communication.
+        - name: Mobiconf
+          start: 04.10.2018
+          end: 05.10.2018
+          organization: Miquido
+          credentialid:
+          credentialurl:
+          credentialname:
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+            Attended the conference engaging in key mobile technology trends and networking with industry experts.
+        - name: Clean architecture training
+          start: 07.12.2015
+          end: 01.02.2016
+          organization: Krzysztof Malmur
+          credentialid:
+          credentialurl:
+          credentialname:
+          details: |
+            Training in clean architecture design for Android applications. We've explored different methodologies with a focus on maintainability and testability.
+            We've also explored various methods of asynchronous programming, including rx-java.
+        - name: Droidcon Amsterdam
+          start: 23.11.2014
+          end: 25.11.2014
+          organization: Droidcon
+          credentialid:
+          credentialurl:
+          credentialname:
+          details: |
+            Participated in leading Android development conference, enhancing skills in application architecture, security and networking with industry professionals.
+        - name: First Certificate in English
+          start: 11.05.2013
+          end: 13.05.2013
+          organization: International House
+          credentialid:
+          credentialurl:
+          credentialname:
+          details: |
+            Successfully passed the FCE, demonstrating a proficiency in English language skills.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Android Native
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Kotlin
         level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Java
+        level: 90%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: React Native
         level: 60%
+
+      - name: Algorithmics
+        level: 60%
+
+      - name: Flutter
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
